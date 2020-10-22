@@ -1,1 +1,61 @@
-theme: jekyll-theme-minimal
+# Site
+repository: davidgit/davidgit.github.io
+favicon: images/favicon.ico
+
+# Personal info
+name: David Gay i Tello
+title: Engineering Manager
+email: david.gay.tello@gmail.com
+#phone: (+34) 607 761 767
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+#twitter_username: davidgit
+linkedin_username: davidgit
+github_username: davidgit
+
+# Additional icon links
+additional_links:
+- title: Strava link
+  icon: fa-strava
+  url: https://www.strava.com/athletes/davidgit
+- title: Last.fm link
+  icon: fa-lastfm
+  url: https://www.last.fm/user/davidgt
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  I'm a software engineer currently living in the Pyrenees with over 16 years of experience working in small to midsize organizations, though what I enjoy the most is people management: enabling and empowering top engineers to shine.
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+more_title: Interests
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interest in software engineering some of my hobbies are:
+   - Trail running
+   - Cheesemaking
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
