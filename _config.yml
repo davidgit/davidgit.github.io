@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: David Gay i Tello
-title: Engineering Manager
+title: Softaware Engineer
 email: david.gay.tello@pm.me
 #phone: (+34) 607 761 767
 
@@ -17,19 +17,19 @@ linkedin_username: davidgit
 github_username: davidgit
 
 # Additional icon links
-additional_links:
-- title: Strava link
-  icon: fa-strava
-  url: https://www.strava.com/athletes/davidgit
-- title: Last.fm link
-  icon: fa-lastfm
-  url: https://www.last.fm/user/davidgt
+#additional_links:
+#- title: Strava link
+  #icon: fa-strava
+  #url: https://www.strava.com/athletes/davidgit
+#- title: Last.fm link
+  #icon: fa-lastfm
+  #url: https://www.last.fm/user/davidgt
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a software engineer currently living in the Pyrenees with over 16 years of experience working in small to midsize organizations, though what I enjoy the most is people management: enabling and empowering top engineers to shine.
+  I'm a software engineer currently living in the Pyrenees with over 16 years of experience working in small to midsize organizations, though what I enjoy the most is people management, enabling and empowering top engineers to shine.
 
 # Projects Section
 # projects_title: Projects

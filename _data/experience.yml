@@ -1,4 +1,12 @@
 - layout: left
+  company: La Gavasenca, SCCL
+  link: formatgeriadegavas.cat
+  job_title: Partner
+  dates: September 2018 - December 2020
+  description: |
+   Everything and more.
+
+- layout: left
   company: New Relic
   link: newrelic.com
   job_title: Engineering Manager
