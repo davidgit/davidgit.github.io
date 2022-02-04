@@ -1,7 +1,19 @@
 - layout: left
-  company: Freelance Software Engineer
-  job_title: Self-employed
-  dates: January 2021 - Present
+  company: New Relic
+  link: newrelic.com
+  job_title: Engineering Manager
+  dates: May 2021 - Present
+  description: |
+   Managing two distributed teams within the Infrastructure Instrumentation organization in Europe. 
+   
+   The Infrastructure organization develops and maintains instrumentation agents and integrations for a wide range of products, including Kubernetes, Cassandra, etc... All the development is open source, usually in Go, and we also contribute to other open source projects such as OpenTelemetry or some Prometheus Exporters.
+   
+   What I do:
+   - Lead two teams of high-performance software engineers.
+   - Ensure the success of software projects through the planning and execution phases within and across our group.
+   - Develop and iterate on processes and practices that keep our teams executing efficiently
+   - Recruit and develop engineering talent for high-productivity, quality focused, and distributed teams.
+   - Work closely with the product and architecture leadership to drive our teams priorities and roadmap.
 
 - layout: left
   company: La Gavasenca, SCCL
