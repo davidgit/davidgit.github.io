@@ -19,8 +19,8 @@
    - I set the proper environment, so new projects are built taking testing and reliability carefully into account.
    - I work closely with the product and architecture leadership to drive our teams priorities and roadmap. Some examples of teams' successful launches:
      - [New Relic Kubernetes inregration v3](https://newrelic.com/blog/nerdlog/k8s-integration-v3), one of the biggest announcements during the last [FutureStack'22](https://newrelic.com/blog/nerdlog/futurestack-2022-recap).
-       [New Relic Prometheus Agent](https://docs.newrelic.com/docs/infrastructure/prometheus-integrations/install-configure-prometheus-agent/install-prometheus-agent/).
-     - New Prometheus based integrations like [IBM MQ](https://docs.newrelic.com/docs/infrastructure/host-integrations/host-integrations-list/ibmmq-monitoring-integration/) or [MongoDB]https://docs.newrelic.com/docs/infrastructure/host-integrations/host-integrations-list/mongodb/mongodb-monitoring-integration-new/).
+     - [New Relic Prometheus Agent](https://docs.newrelic.com/docs/infrastructure/prometheus-integrations/install-configure-prometheus-agent/install-prometheus-agent/).
+     - New Prometheus based integrations like [IBM MQ](https://docs.newrelic.com/docs/infrastructure/host-integrations/host-integrations-list/ibmmq-monitoring-integration/) or [MongoDB](https://docs.newrelic.com/docs/infrastructure/host-integrations/host-integrations-list/mongodb/mongodb-monitoring-integration-new/).
    - I enforce the team to keep some room for innovation and creativity through Innovation Days whose outcomes are shared and land on our roadmaps when appropriate.
 
 - layout: left
