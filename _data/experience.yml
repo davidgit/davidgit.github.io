@@ -1,8 +1,14 @@
 - layout: left
   company: New Relic
   link: newrelic.com
+  job_title: Senior Manager, Software Engineering
+  dates: July 2024 - Present
+
+- layout: left
+  company: New Relic
+  link: newrelic.com
   job_title: Engineering Manager
-  dates: May 2021 - Present
+  dates: May 2021 - July 2024
   description: |
    Managing two remote teams (12 direct reports) within the Infrastructure Instrumentation organization in Europe.
 
